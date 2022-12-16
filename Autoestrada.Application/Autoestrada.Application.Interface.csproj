@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Autoestrada.Application.DTO\Autoestrada.Application.DTO.csproj" />
+    <ProjectReference Include="..\Autoestrada.Domain.Entity\Autoestrada.Domain.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

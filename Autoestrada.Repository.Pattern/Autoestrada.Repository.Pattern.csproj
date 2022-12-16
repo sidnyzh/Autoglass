@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Autoestrada.Domain.Entity\Autoestrada.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Autoestrada.Repository.Interface\Autoestrada.Repository.Interface.csproj" />
+  </ItemGroup>
+
+</Project>
